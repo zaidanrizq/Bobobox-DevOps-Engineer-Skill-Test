@@ -1,0 +1,5 @@
+project_id    = "bobobox-skill-test"
+region        = "us-central1"
+zone          = "us-central1-a"
+machine_type  = "e2-micro"
+instance_name = "opentofu-webserver"
