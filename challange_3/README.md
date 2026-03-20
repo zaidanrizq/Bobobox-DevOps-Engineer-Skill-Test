@@ -15,6 +15,9 @@ The infrastructure automatically:
 
 - Outputs the public IP for access
 
+### Topology:
+![Toplogy](./image/topology.png)
+Notes: Firewall rules updated ssh not allowed
 ### Web Server:
 ![Web Server](./image/web-server.png)
 ### Tofu Init Plan Apply:

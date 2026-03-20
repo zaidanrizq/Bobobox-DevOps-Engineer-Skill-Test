@@ -3,6 +3,9 @@
 ## Brief Summary
 This project demonstrates how to containerize a simple Next.js application using Docker with a multi-stage build approach. The goal is to produce a lightweight, production-ready image while maintaining efficient build performance.
 
+### Topology:
+![Topology](./image/topology.png)
+
 ### Web App Running:
 ![Web App Running](./image/web_app.png)
 

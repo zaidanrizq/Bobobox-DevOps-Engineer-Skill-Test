@@ -9,6 +9,9 @@ This script performs a basic server health check including:
 
 All results are logged into a file for monitoring and troubleshooting.
 
+### Health Check Topology
+![Health Check Topology](./image/topology.png)
+
 ### Health Check Script
 ![Health Check Script](./image/health_check_script.png)
 
