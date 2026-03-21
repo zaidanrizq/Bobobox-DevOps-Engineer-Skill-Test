@@ -30,15 +30,11 @@ Make sure the following are installed:
 ```
 
 ## How to Run
-1. Build the Docker Image
+1. Run the Application
     ```bash
-    docker-compose build
+    docker compose up -d
     ```
-2. Run the Application
-    ```bash
-    docker-compose up -d
-    ```
-3. Access the Application on http://[HOST.IP]:3000
+2. Access the Application on http://[HOST.IP]:3000
 <br>Change HOST.IP with the ip of your host running the Container
 
 
