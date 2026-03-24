@@ -40,7 +40,7 @@ Make sure the following are installed:
 
 4. Stop the Application
     ```bash
-    docker-compose down
+    docker compose down
     ```
 
 ## Action Taken Reasoning
